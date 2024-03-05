@@ -11,4 +11,4 @@ SPECIFICATIONS
 - Compatibility score for each applicant should fall in a range from [0, 1]
 - Use any programming language you wish to develop in.
 
-This program takes a JSON file as input. It reads the contents of the JSON file in order to find the applicants and their attributes. It uses said attributes in the JSON file to calculate the total score of each attribute. It then outputs the values in a JSON file. Examples of the input and output JSON files have been uploaded.
+This program takes a JSON file as input. It reads the contents of the JSON file in order to find the applicants and their attributes. It uses said attributes in the JSON file to calculate the total score of each attribute. It then outputs the values in a JSON file. Examples of the input and output JSON files have been uploaded. This program will automatically create a JSON file for the output if there is no output file already.
